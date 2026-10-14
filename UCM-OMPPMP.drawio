@@ -1,25 +1,25 @@
 <mxfile host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" pages="2">
   <diagram id="fV78JMqtUHG2mbgf124l" name="PMP OMP 计费模块 - UCM 交互基本关系">
-    <mxGraphModel dx="1414" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="z-RddaSCFGpWJgRmqBs--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="PMP" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="100" as="geometry" />
+          <mxGeometry height="60" width="120" x="240" y="190" as="geometry" />
         </mxCell>
         <mxCell id="z-RddaSCFGpWJgRmqBs--2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="OMP" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="270" as="geometry" />
+          <mxGeometry height="60" width="120" x="240" y="360" as="geometry" />
         </mxCell>
         <mxCell id="z-RddaSCFGpWJgRmqBs--3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="计费：Iris4 TMS ECP" vertex="1">
-          <mxGeometry height="60" width="140" x="120" y="450" as="geometry" />
+          <mxGeometry height="60" width="140" x="240" y="540" as="geometry" />
         </mxCell>
         <mxCell id="z-RddaSCFGpWJgRmqBs--4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="UCM" vertex="1">
-          <mxGeometry height="60" width="246" x="414" y="260" as="geometry" />
+          <mxGeometry height="60" width="246" x="534" y="350" as="geometry" />
         </mxCell>
         <mxCell id="z-RddaSCFGpWJgRmqBs--5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="z-RddaSCFGpWJgRmqBs--4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="240" y="130" as="sourcePoint" />
-            <mxPoint x="290" y="80" as="targetPoint" />
+            <mxPoint x="360" y="220" as="sourcePoint" />
+            <mxPoint x="410" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z-RddaSCFGpWJgRmqBs--6" connectable="0" parent="z-RddaSCFGpWJgRmqBs--5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="获取FC" vertex="1">
@@ -29,8 +29,8 @@
         </mxCell>
         <mxCell id="z-RddaSCFGpWJgRmqBs--7" edge="1" parent="1" source="z-RddaSCFGpWJgRmqBs--2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="260" y="290" as="sourcePoint" />
-            <mxPoint x="410" y="300" as="targetPoint" />
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="530" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z-RddaSCFGpWJgRmqBs--8" connectable="0" parent="z-RddaSCFGpWJgRmqBs--7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="制作or校验FC" vertex="1">
@@ -40,8 +40,8 @@
         </mxCell>
         <mxCell id="z-RddaSCFGpWJgRmqBs--9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="z-RddaSCFGpWJgRmqBs--4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="260" y="480" as="sourcePoint" />
-            <mxPoint x="410" y="330" as="targetPoint" />
+            <mxPoint x="380" y="570" as="sourcePoint" />
+            <mxPoint x="530" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z-RddaSCFGpWJgRmqBs--10" connectable="0" parent="z-RddaSCFGpWJgRmqBs--9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;获取Fix费率&amp;nbsp; or 校验FC&lt;/font&gt;" vertex="1">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z-RddaSCFGpWJgRmqBs--19" collapsed="1" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="LC" vertex="1">
-          <mxGeometry height="50" width="60" x="600" y="330" as="geometry">
+          <mxGeometry height="50" width="60" x="720" y="420" as="geometry">
             <mxRectangle height="120" width="160" x="600" y="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
