@@ -84,7 +84,7 @@
           <mxGeometry height="72" width="56" x="1897" y="546.4" as="geometry" />
         </mxCell>
         <mxCell id="btIGlkBGek8Kcna8ikl--10" parent="1" style="shape=mermaidUsecaseActor;actorType=normal;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Full Chain CSV&lt;/font&gt;" vertex="1">
-          <mxGeometry height="72" width="56" x="538" y="359.4" as="geometry" />
+          <mxGeometry height="72" width="56" x="520" y="361" as="geometry" />
         </mxCell>
         <mxCell id="q5CqWQGoJ3ORPWq1qar4-1" parent="1" style="shape=mermaidUsecaseActor;actorType=normal;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Customer&lt;/font&gt;" vertex="1">
           <mxGeometry height="72" width="56" x="122" y="293.4" as="geometry" />
