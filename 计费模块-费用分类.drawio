@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="SyvI4x30nfWao-4MIxNr">
+    <mxGraphModel dx="1060" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="5000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-6" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="海运固收费用" vertex="1">
+          <mxGeometry height="120" width="290" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-7" parent="EvU7y5z87UoyRu_Qi3zj-6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="海运费,OCE" vertex="1">
+          <mxGeometry height="30" width="290" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-8" parent="EvU7y5z87UoyRu_Qi3zj-6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="海运附加费，比如FAF BAF" vertex="1">
+          <mxGeometry height="30" width="290" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-9" parent="EvU7y5z87UoyRu_Qi3zj-6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="联运内陆转运费(Arbitray)，ARB ARD IHL IHD" vertex="1">
+          <mxGeometry height="30" width="290" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="海运固收偶发类费用" vertex="1">
+          <mxGeometry height="60" width="290" x="50" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-11" parent="EvU7y5z87UoyRu_Qi3zj-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Optional 海运费附加费, OWC MSA/MSC AMA AMS" vertex="1">
+          <mxGeometry height="30" width="290" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-15" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="海运Local固收类费用" vertex="1">
+          <mxGeometry height="60" width="290" x="50" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-16" parent="EvU7y5z87UoyRu_Qi3zj-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="订舱费" vertex="1">
+          <mxGeometry height="30" width="290" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-19" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="海运Local偶发类费用" vertex="1">
+          <mxGeometry height="60" width="290" x="50" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-20" parent="EvU7y5z87UoyRu_Qi3zj-19" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="例如XXX" vertex="1">
+          <mxGeometry height="30" width="290" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
