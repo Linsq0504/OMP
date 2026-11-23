@@ -58,7 +58,7 @@
         <mxCell id="K5ymEWDCjATPSyo3Uh63-16" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="关务偶发费用" vertex="1">
           <mxGeometry height="100" width="300" x="830" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="K5ymEWDCjATPSyo3Uh63-17" parent="K5ymEWDCjATPSyo3Uh63-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5,1,0,0],[1,0.5,1,0,0],[0.7,0.714286,0,0,0]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="关务偶发费用" vertex="1">
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-17" parent="K5ymEWDCjATPSyo3Uh63-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5,1,0,0],[1,0.5,1,0,0],[0.7,0.714286,0,0,0]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="关务偶发费用，和陆运类似固收之外的全是偶发？---待确认" vertex="1">
           <mxGeometry height="70" width="300" y="30" as="geometry" />
         </mxCell>
       </root>
