@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-6" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="海运固收费用" vertex="1">
-          <mxGeometry height="120" width="290" x="50" y="140" as="geometry" />
+          <mxGeometry height="120" width="290" x="240" y="130" as="geometry" />
         </mxCell>
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-7" parent="EvU7y5z87UoyRu_Qi3zj-6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="海运费,OCE" vertex="1">
           <mxGeometry height="30" width="290" y="30" as="geometry" />
@@ -17,64 +17,73 @@
           <mxGeometry height="30" width="290" y="90" as="geometry" />
         </mxCell>
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="海运偶发类费用" vertex="1">
-          <mxGeometry height="60" width="290" x="50" y="290" as="geometry" />
+          <mxGeometry height="60" width="290" x="240" y="280" as="geometry" />
         </mxCell>
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-11" parent="EvU7y5z87UoyRu_Qi3zj-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Optional 海运费附加费, OWC MSA/MSC AMA AMS" vertex="1">
           <mxGeometry height="30" width="290" y="30" as="geometry" />
         </mxCell>
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-15" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#FFFFFF;" value="海运Local固收类费用" vertex="1">
-          <mxGeometry height="60" width="290" x="50" y="460" as="geometry" />
+          <mxGeometry height="60" width="290" x="240" y="450" as="geometry" />
         </mxCell>
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-16" parent="EvU7y5z87UoyRu_Qi3zj-15" style="text;strokeColor=none;fillColor=#FF0000;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" value="订舱费" vertex="1">
           <mxGeometry height="30" width="290" y="30" as="geometry" />
         </mxCell>
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-19" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#FFFFFF;" value="海运Local偶发类费用" vertex="1">
-          <mxGeometry height="60" width="290" x="50" y="540" as="geometry" />
+          <mxGeometry height="60" width="290" x="240" y="530" as="geometry" />
         </mxCell>
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-20" parent="EvU7y5z87UoyRu_Qi3zj-19" style="text;strokeColor=none;fillColor=#FF0000;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;" value="电放费 改单费" vertex="1">
           <mxGeometry height="30" width="290" y="30" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="陆运固收费用" vertex="1">
-          <mxGeometry height="60" width="390" x="560" y="195" as="geometry" />
+          <mxGeometry height="60" width="390" x="750" y="185" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-2" parent="K5ymEWDCjATPSyo3Uh63-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="拖车、铁路基础运输费 --- 待确定 陆运固收类费用只有一个charge" vertex="1">
           <mxGeometry height="30" width="390" y="30" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="陆运偶发费用" vertex="1">
-          <mxGeometry height="100" width="300" x="570" y="380" as="geometry" />
+          <mxGeometry height="100" width="300" x="760" y="385" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-6" parent="K5ymEWDCjATPSyo3Uh63-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5,1,0,0],[1,0.5,1,0,0],[0.7,0.714286,0,0,0]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="拖车、铁路偶发费用&lt;div&gt;&amp;nbsp; &amp;nbsp;注：TMS把所有固收费用都放在了基础运输费，基础费用之外的附加费全部是偶发类费用。&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="300" y="30" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="陆运：代运，全部由Local收取，所以无所谓Local或不Local。&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;联运，费用归入海运固收费用，存在因陆运而产生的Local费用。&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="390" x="440" y="120" as="geometry" />
+          <mxGeometry height="30" width="390" x="630" y="110" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-14" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="关务固收费用" vertex="1">
-          <mxGeometry height="60" width="290" x="1140" y="195" as="geometry" />
+          <mxGeometry height="60" width="290" x="1330" y="185" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-15" parent="K5ymEWDCjATPSyo3Uh63-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="关务基础运输费" vertex="1">
           <mxGeometry height="30" width="290" y="30" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-16" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="关务偶发费用" vertex="1">
-          <mxGeometry height="100" width="300" x="1150" y="380" as="geometry" />
+          <mxGeometry height="100" width="300" x="1340" y="370" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-17" parent="K5ymEWDCjATPSyo3Uh63-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5,1,0,0],[1,0.5,1,0,0],[0.7,0.714286,0,0,0]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="关务偶发费用，和陆运类似固收之外的全是偶发？---待确认" vertex="1">
           <mxGeometry height="70" width="300" y="30" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-18" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="50" y="440" as="sourcePoint" />
-            <mxPoint x="380" y="440" as="targetPoint" />
+            <mxPoint x="240" y="430" as="sourcePoint" />
+            <mxPoint x="570" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K5ymEWDCjATPSyo3Uh63-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="OMP" vertex="1">
-          <mxGeometry height="60" width="120" x="430" y="185" as="geometry" />
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="OMP发送CBS" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="K5ymEWDCjATPSyo3Uh63-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="TMS" vertex="1">
-          <mxGeometry height="60" width="120" x="440" y="350" as="geometry" />
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="TMS发送CBS" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="385" as="geometry" />
         </mxCell>
-        <mxCell id="K5ymEWDCjATPSyo3Uh63-21" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;海运local怎么做？&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="50" width="220" x="40" y="390" as="geometry" />
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-21" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;海运local怎么做？和固收一样保持Iris4生成和发送不变？&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="340" x="230" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="OMP发送CBS" vertex="1">
+          <mxGeometry height="60" width="120" x="1200" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="ECP发送CBS" vertex="1">
+          <mxGeometry height="60" width="120" x="1200" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Iris4发送CBS" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
