@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="SyvI4x30nfWao-4MIxNr">
-    <mxGraphModel dx="1148" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1531" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,13 +41,25 @@
           <mxGeometry height="30" width="290" y="30" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="陆运偶发费用" vertex="1">
-          <mxGeometry height="100" width="300" x="450" y="250" as="geometry" />
+          <mxGeometry height="100" width="300" x="450" y="230" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-6" parent="K5ymEWDCjATPSyo3Uh63-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5,1,0,0],[1,0.5,1,0,0],[0.7,0.714286,0,0,0]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="拖车、铁路偶发费用&lt;div&gt;&amp;nbsp; &amp;nbsp;注：TMS把所有固收费用都放在了基础运输费，基础费用之外的附加费全部是偶发类费用。&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="300" y="30" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="陆运：代运，全部由Local收取，所以无所谓Local或不Local。&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;联运，费用归入海运固收费用，存在因陆运而产生的Local费用。&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="390" x="450" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-14" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="关务固收费用" vertex="1">
+          <mxGeometry height="60" width="290" x="830" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-15" parent="K5ymEWDCjATPSyo3Uh63-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="关务基础运输费" vertex="1">
+          <mxGeometry height="30" width="290" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-16" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="关务偶发费用" vertex="1">
+          <mxGeometry height="100" width="300" x="830" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-17" parent="K5ymEWDCjATPSyo3Uh63-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5,1,0,0],[1,0.5,1,0,0],[0.7,0.714286,0,0,0]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="关务偶发费用" vertex="1">
+          <mxGeometry height="70" width="300" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
