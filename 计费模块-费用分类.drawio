@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="SyvI4x30nfWao-4MIxNr">
-    <mxGraphModel dx="1653" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1857" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K5ymEWDCjATPSyo3Uh63-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="900" width="1650" x="60" y="70" as="geometry" />
+          <mxGeometry height="900" width="1650" x="50" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="EvU7y5z87UoyRu_Qi3zj-6" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="海运固收费用" vertex="1">
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-6" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;海运固收费用&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="290" x="240" y="185" as="geometry" />
         </mxCell>
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-7" parent="EvU7y5z87UoyRu_Qi3zj-6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="海运费,OCE" vertex="1">
@@ -19,7 +19,7 @@
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-9" parent="EvU7y5z87UoyRu_Qi3zj-6" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="联运内陆转运费(Arbitray)，ARB ARD IHL IHD" vertex="1">
           <mxGeometry height="30" width="290" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="EvU7y5z87UoyRu_Qi3zj-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="海运偶发类费用" vertex="1">
+        <mxCell id="EvU7y5z87UoyRu_Qi3zj-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;海运偶发类费用&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="290" x="240" y="340" as="geometry" />
         </mxCell>
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-11" parent="EvU7y5z87UoyRu_Qi3zj-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Optional 海运费附加费, OWC MSA/MSC AMA AMS" vertex="1">
@@ -37,13 +37,13 @@
         <mxCell id="EvU7y5z87UoyRu_Qi3zj-20" parent="EvU7y5z87UoyRu_Qi3zj-19" style="text;strokeColor=none;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" value="电放费 改单费" vertex="1">
           <mxGeometry height="30" width="290" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="K5ymEWDCjATPSyo3Uh63-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="陆运固收费用" vertex="1">
-          <mxGeometry height="60" width="390" x="750" y="185" as="geometry" />
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;陆运固收费用&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="750" y="185" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-2" parent="K5ymEWDCjATPSyo3Uh63-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="拖车、铁路运输费 ---目前来说，陆运固收类费用只有固定一个charge" vertex="1">
-          <mxGeometry height="30" width="390" y="30" as="geometry" />
+          <mxGeometry height="30" width="310" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="K5ymEWDCjATPSyo3Uh63-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="陆运偶发费用" vertex="1">
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-5" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;陆运偶发费用&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="300" x="750" y="385" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-6" parent="K5ymEWDCjATPSyo3Uh63-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5,1,0,0],[1,0.5,1,0,0],[0.7,0.714286,0,0,0]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;拖车、铁路偶发费用&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;例如：&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.88); font-family: &amp;quot;Helvetica Neue&amp;quot;, helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, arial, sans-serif;&quot;&gt;超时费、超重费&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -52,13 +52,13 @@
         <mxCell id="K5ymEWDCjATPSyo3Uh63-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="陆运：代运，全部由Local收取，所以无所谓Local或不Local。&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;联运，费用归入海运固收费用，存在因陆运而产生的Local费用。&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="390" x="630" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="K5ymEWDCjATPSyo3Uh63-14" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="关务固收费用" vertex="1">
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-14" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;关务固收费用&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="290" x="1380" y="185" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-15" parent="K5ymEWDCjATPSyo3Uh63-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="关务基础费用" vertex="1">
           <mxGeometry height="30" width="290" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="K5ymEWDCjATPSyo3Uh63-16" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="关务偶发费用" vertex="1">
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-16" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;关务偶发费用&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="100" width="300" x="1380" y="385" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-17" parent="K5ymEWDCjATPSyo3Uh63-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5,1,0,0],[1,0.5,1,0,0],[0.7,0.714286,0,0,0]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="关务偶发费用，和陆运类似固收之外的全是偶发？---待确认" vertex="1">
@@ -85,7 +85,7 @@
         <mxCell id="K5ymEWDCjATPSyo3Uh63-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#66FFFF;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;OMP发送CBS&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="110" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="K5ymEWDCjATPSyo3Uh63-28" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="营销规则&amp;amp;分摊规则" vertex="1">
+        <mxCell id="K5ymEWDCjATPSyo3Uh63-28" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;营销规则&amp;amp;分摊规则&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="90" width="480" x="240" y="800" as="geometry" />
         </mxCell>
         <mxCell id="K5ymEWDCjATPSyo3Uh63-29" parent="K5ymEWDCjATPSyo3Uh63-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;一口价应收分摊：拖+铁一口价1800，分摊规则由产品定义计算得 拖1400+铁400&lt;/font&gt;" vertex="1">
